@@ -79,7 +79,7 @@ Challenge
 
   
 
-- Where can I see your demo? <a  href="https://{https://404page-seven.vercel.app/}">here</a>
+- Where can I see your demo? <a  href="https://404page-seven.vercel.app/">here</a>
 
 
 
