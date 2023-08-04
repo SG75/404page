@@ -21,7 +21,7 @@ Solution for a challenge from <a  href="http://devchallenges.io"  target="_blank
 
 <h3>
 
-<a  href="https://{404page-seven.vercel.app/}">
+<a  href="https://404page-seven.vercel.app/">
 
 Demo
 
@@ -29,7 +29,7 @@ Demo
 
 <span> | </span>
 
-<a  href="https://{github.com/SG75/404page}">
+<a  href="https://github.com/SG75/404page">
 
 Solution
 
